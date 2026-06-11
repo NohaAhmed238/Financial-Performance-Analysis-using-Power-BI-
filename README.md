@@ -1,4 +1,4 @@
-# Revenue & Profitability Analysis Dashboard
+# Revenue & Profitability Analysis Dashboards
 
 A Power BI dashboard developed to analyze revenue, profitability, costs, and overall business performance. The dashboard provides executive-level KPIs and detailed insights into revenue trends, profit margins, discount impacts, product performance, customer segments, and regional sales performance. It enables stakeholders to monitor financial health, identify high-performing products, evaluate profitability across markets, and support data-driven decision-making.
 
